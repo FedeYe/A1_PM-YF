@@ -2,3 +2,5 @@
 2000549
 ----Inventario----
 ->Processori
+->Schede Madri
+
